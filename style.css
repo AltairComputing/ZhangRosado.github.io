@@ -1,0 +1,62 @@
+/* 
+Assignment 02
+Date: 9 November 2021
+Author: Felix Zhang Rosado
+*/
+
+.header{
+    display: block;
+    margin: auto;
+    width: 800px;
+}
+.p1{
+    color:hotpink;
+    font-family:Arial;
+}
+.p2{
+    color:pink;
+    font-family:Courier;
+}
+.p3{
+    color:lightpink;
+    font-family:Corsiva;
+}
+.fun_with_fonts{
+    border: 5px outset red;
+    background-color: grey;
+}
+.img01, .img02, .img03{
+    border: 5px outset orange;
+
+}
+.my_images{
+    border: 5px outset red;
+}
+
+.top_row{
+    background-color:yellow ;
+   
+    font-weight: 700;
+    align-content: center;
+}
+.bottom_row{
+
+    background-color:pink ;
+    align-content: right;
+}
+
+.my_table{
+
+    border-color: black;
+}
+
+.search_box{
+    display: inline-block;
+}
+
+.my_textbox{
+
+    width:  1000px;
+    height: 400px;
+    border-color: black;
+}
